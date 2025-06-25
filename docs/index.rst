@@ -3,11 +3,11 @@ Fix Big Fish Games Download Problems in Minutes
   
 Big Fish Games is a popular platform for casual games, providing a wide range of titles across various genres, including puzzle, adventure, and time-management games. However, many users face issues when trying to download games from Big Fish Games. This article aims to address the common *Big Fish Games download problems*, the potential causes behind them, and steps you can take to fix them. 
 
-  .. image:: download.gif
+  .. image:: click-here.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://i-downloadsoftwares.com/
+   :target: https://getchatsupport.live/
   
 Big Fish Games Download Problems
 --------------------------------
